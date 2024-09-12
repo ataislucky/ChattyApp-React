@@ -24,5 +24,3 @@ Key features and functionalities will include:
 * **User profiles:** Providing basic user profile information (e.g., username, display name).
 
 By building Chatty, I will demonstrate my understanding of React, JavaScript, and Firebase. I will also gain experience in developing real-time applications, handling user authentication, and managing data in a cloud-based environment.
-
-**Would you like to add more details about your Chatty app, such as specific features or technologies you plan to use?**
